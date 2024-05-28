@@ -1,4 +1,7 @@
 ## projek-strukdat-kelompok-9
+
+Frozen Food Startup Goods Distribution System in the Jabodetabekjur Area 
+
 Project ini bertujuan untuk merancang dan mengimplementasikan sistem manajemen pengantaran barang menggunakan struktur data. Beberapa fungsi utama yang diimplementasikan meliputi: 
 
     1. Menerima dan Mengelola Pesanan: Pesanan disimpan dalam struktur data antrian (queue)  menggunakan array. Setiap pesanan memiliki ID, nama barang, jumlah barang, alamat tujuan, dan status pengiriman. 
